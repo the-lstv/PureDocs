@@ -14,6 +14,6 @@ PureDocs are fully customizable, from endless themes to brand new styles.
 ![puredocs-themes](https://user-images.githubusercontent.com/62482747/151216590-a00c022b-8680-4bc8-88b7-b45305e4e88f.png)
 
 Want to try it out? Visit Puredoc's documentation!
-https://lstv.fun/experiments/PureDocs/
+https://lstv.fun/archive/experiments/PureDocs/
 
 # Please note that this is a very old release. A new one, this time with LS, will be coming out... soon(?)
