@@ -1,4 +1,4 @@
-# PureDocs
+# PureDocs [OLD]
 Puredocs is a powerfull and very simple documentation software designed to work simply from a single HTML file without the need for NPM etc.
 
 ## Powerfull, yet simple
@@ -13,5 +13,7 @@ You need to copy-paste one file to create your own PureDocs.<br>That's it.
 PureDocs are fully customizable, from endless themes to brand new styles.
 ![puredocs-themes](https://user-images.githubusercontent.com/62482747/151216590-a00c022b-8680-4bc8-88b7-b45305e4e88f.png)
 
-# Want to try it out? Visit Puredoc's documentation!
-## https://lstv.ml/experiments/puredocs/
+Want to try it out? Visit Puredoc's documentation!
+https://lstv.fun/experiments/puredocs/
+
+# Please note that this is a very old release. A new one, this time with LS, will be coming out... soon(?)
